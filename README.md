@@ -1,4 +1,3 @@
-- [ ] 
 # Jorge Samaniego
 
 Computer Science student at SUNY Farmingdale State College focused on building real-world software and AI-driven applications.
